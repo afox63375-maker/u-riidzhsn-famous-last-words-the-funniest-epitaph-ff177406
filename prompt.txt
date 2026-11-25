@@ -1,0 +1,2 @@
+Selesaikan 1persatu
+Build one original epitaph entry for the Famous Last Words bounty: a single funny last line, carved-in-stone voice, standard library only.
